@@ -1,0 +1,8 @@
+{
+    "intents": [
+        {
+            "tag": "Commands",
+            "phrases": ["print hello world", "print goodbye"]
+        }
+    ]
+}
